@@ -4,7 +4,7 @@ This is my personal developer portfolio website built with **HTML, CSS, and Java
 
 ## 🚀 Demo
 
-👉 [Live Demo](http://127.0.0.1:5500/My%20Portfolio/index.html)  
+👉 [Live Demo][![Netlify Status](https://api.netlify.com/api/v1/badges/dc2f19b7-3b7c-4b63-aef7-9b6a8a525daf/deploy-status)](https://app.netlify.com/sites/firoz97-portfolio/deploys) 
 
 ## 🛠 Tech Stack
 
