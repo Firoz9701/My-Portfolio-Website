@@ -29,7 +29,7 @@ This is my personal developer portfolio website built with **HTML, CSS, and Java
 
 If you'd like to get in touch, reach out via:
 
-- Email: firoz@example.com  
+- Email: fksiroz97@gmail.com  
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/firoz-khan-5245a3158)  
 - GitHub: [Your GitHub](https://github.com/Firoz9701)
 
